@@ -1,0 +1,18 @@
+#loginbutton{
+    background-color:#FF3333;
+    color: white;
+    width:100px;
+    font-size: 2rem bold;
+    right :10px;
+    left: 60%;
+    margin-right:10px ;
+}
+#nav{
+padding-left: 80px;
+}
+#navmain{
+    box-shadow: 0 0 8px 0 #888888 ;
+}
+li :hover{
+    color: #FF3333;
+}
